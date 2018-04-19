@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">King\'s Tic Tac Toe</string>
+    <string name="KingsTicTacToe">King\'s Tic Tac Toe</string>
+    <string name="choose_board_size">Choose board size</string>
+    <string name="_3_x_3">3 X 3</string>
+    <string name="_5_x_5">5 X 5</string>
+    <string name="back">Back</string>
+    <string name="vs">VS</string>
+    <string name="player_2">Player 2</string>
+    <string name="player_1">Player 1</string>
+    <string name="cpu">CPU</string>
+    <string name="_cpu_">CPU</string>
+    <string name="reset_board">Reset Board</string>
+</resources>
